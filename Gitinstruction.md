@@ -5,10 +5,13 @@
 ## 2. Установка GIT
 Загружаем последнюю версию с [сайта](https://code.visualstudio.com/Download)
 
+## 3. Настройка Git
 При первом использовании Git необходимо представиться.
 Для этого нужно ввести в терминале 2 команды:
+``````
 git config --global user.name «Ваше имя английскими буквами»
 git config --global user.email ваша почта@example.com
+```
 
 
 
