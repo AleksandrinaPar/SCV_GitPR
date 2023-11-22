@@ -40,7 +40,7 @@ git config --global user.email ваша почта@example.com
 **git add --all**
 
 Если хотим добавить конкретный файл то так
-**git add** имя_файла"
+**git add** имя_файла
 
 Теперь создаем commit. Командой  **git commit -m**
 Обязательно указываем комментарий.
